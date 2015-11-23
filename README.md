@@ -20,7 +20,7 @@ This is not helpful when building out the website in a development environment a
 
 > **Note:** This override DOES NOT change any existing paths already stored in the database.  This mod is intended to be used BEFORE building out your website with BeTheme so that the paths will be relative from the start.
 
-#### <i class="icon-file"></i> Copy this code to functions.php
+#### <i class="icon-file"></i> Copy this code to your BeTheme child-theme's functions.php
 
 ```
 /* ---------------------------------------------------------------------------
