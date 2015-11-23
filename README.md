@@ -44,9 +44,3 @@ function mfnback_admin_enqueue(){
     }
 }
 ```
-
-----------
-
-### Table of contents
-
-[TOC]
